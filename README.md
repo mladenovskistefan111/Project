@@ -1,1 +1,1 @@
-Application for DevOps project.
+Application for Docker project.
